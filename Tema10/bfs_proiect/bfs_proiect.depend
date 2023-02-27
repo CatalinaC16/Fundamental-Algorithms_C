@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1672850391 source:d:\an_2_sem1\af\bfs_proiect\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<unistd.h>
+	"bfs.h"
+
+1574953299 d:\an_2_sem1\af\bfs_proiect\bfs.h
+	"Profiler.h"
+
+1570449873 d:\an_2_sem1\af\bfs_proiect\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
+1672917971 source:d:\an_2_sem1\af\bfs_proiect\bfs.cpp
+	<stdlib.h>
+	<string.h>
+	<queue>
+	"bfs.h"
+
+1672917971 source:d:\an_2_sem1\af\tema10\bfs_proiect\bfs.cpp
+	<stdlib.h>
+	<string.h>
+	<queue>
+	"bfs.h"
+
+1574953299 d:\an_2_sem1\af\tema10\bfs_proiect\bfs.h
+	"Profiler.h"
+
+1570449873 d:\an_2_sem1\af\tema10\bfs_proiect\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
+1672850391 source:d:\an_2_sem1\af\tema10\bfs_proiect\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<unistd.h>
+	"bfs.h"
+

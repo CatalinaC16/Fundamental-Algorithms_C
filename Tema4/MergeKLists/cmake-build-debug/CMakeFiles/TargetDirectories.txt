@@ -1,0 +1,3 @@
+D:/AN_2_sem1/AF/MergeKLists/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/AN_2_sem1/AF/MergeKLists/cmake-build-debug/CMakeFiles/MergeKLists.dir
+D:/AN_2_sem1/AF/MergeKLists/cmake-build-debug/CMakeFiles/edit_cache.dir

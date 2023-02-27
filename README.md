@@ -1,0 +1,1 @@
+The tasks for the Fundamental Algorithms course, every task has the implementation and also the required analysis.
